@@ -1,0 +1,11 @@
+
+{
+  "name": "Minable Rock",
+  "version": "0.1.0",
+  "title": "Minable Rock",
+  "author": "Ranakastrasz",
+  "contact": "~",
+  "homepage": "",
+  "description": "Allows you to mine rock outcroppings for a small amount of stone.",
+  "dependencies": ["base"]
+}
